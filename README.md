@@ -19,3 +19,4 @@ Score is calculated by time remaining. Answering quickly and correctly results i
 
 When time runs out and/or all questions are answered, the user is presented with their final score and asked to enter their initials. Their final score and initials are then stored in localStorage.
 
+![Screenshot (6)](https://user-images.githubusercontent.com/72782320/98432081-eedc7b00-2088-11eb-99c4-ade1470a6565.png)
